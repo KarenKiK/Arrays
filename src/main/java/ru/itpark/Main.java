@@ -111,6 +111,7 @@ public class Main {
             }
 
             System.arraycopy(sales, 0, newSales, 0, sales.length);
+            System.out.println(sales);
         }
     }
 }
